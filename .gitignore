@@ -44,3 +44,6 @@ bin/
 obj/
 
 # End of https://www.gitignore.io/api/c++,codeblocks
+
+# Misc
+desktop.ini
